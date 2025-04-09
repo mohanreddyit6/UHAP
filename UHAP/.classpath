@@ -15,5 +15,9 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="/Users/mohanreddy/Desktop/MRP/mysql-connector-j-9.2.0/mysql-connector-j-9.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/mohanreddy/Downloads/bcrypt-0.10.2.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/json-20210307.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/mysql-connector-java-8.0.11.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
